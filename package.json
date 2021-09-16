@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "g": "^2.0.1",
+    "gh-pages": "^3.2.3",
+    "gitbook-plugin-back-to-top-button": "^0.1.4",
+    "gitbook-plugin-change_girls": "^2.2.1",
+    "gitbook-plugin-chapter-fold": "0.0.4",
+    "gitbook-plugin-code": "^0.1.0",
+    "gitbook-plugin-copy-code-button": "0.0.2",
+    "gitbook-plugin-expandable-chapters-small": "^0.1.7",
+    "gitbook-plugin-github": "^3.0.0",
+    "gitbook-plugin-insert-logo": "^0.1.5",
+    "gitbook-plugin-search-pro": "^2.0.2",
+    "gitbook-plugin-sharing-plus": "0.0.2",
+    "gitbook-plugin-splitter": "0.0.8"
+  }
+}

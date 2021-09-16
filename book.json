@@ -1,0 +1,54 @@
+
+{
+    "title": "OasisMetaverse",
+    "description": "BinanceSmartChain's first Metaverse", 
+    "link": {
+       "sidebar": {
+           "HOME": "#"
+       }
+    },
+    "plugins": [
+        "-lunr", "-search", "search-pro",
+        "back-to-top-button",
+        "chapter-fold",
+        "expandable-chapters-small",
+        "code",
+        "copy-code-button",
+        "splitter",
+        "-sharing", "sharing-plus",
+        "theme-comscore"
+    ],
+
+    "pluginsConfig": {
+     "code": { 
+     "copyButtons": true
+     },
+     "theme-fexa":{
+        "search-placeholder":"Search Oasis", 
+        "logo":"images/logo.png", 
+        "favicon": "./favicon.ico" 
+    },
+     "github": {
+         "url": "https://github.com/Danny931/Oasis-Metaverse"
+     },
+     "change_girls" : {
+         "time" : 10,
+         "urls" : [
+             "girlUrl1", "girlUrl2"
+         ]
+     },
+     "sharing": {   
+         "facebook": true,
+         "google": true,
+         "linkedin": true,
+         "twitter": true,
+         "whatsapp": true,
+         "all": [
+             "facebook", "google", 
+              "linkedin","twitter", 
+              "whatsapp"
+           ]
+         }
+    }
+ }
+ 
